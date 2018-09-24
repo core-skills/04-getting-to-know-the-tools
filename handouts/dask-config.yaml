@@ -10,13 +10,13 @@
 # Worker config
 worker:
   replicas: 8
-  resources:
-    limits:
-      cpu: 2
-      memory: 7.5G
-    requests:
-      cpu: 2
-      memory: 7.5G
+  # resources:
+  #   limits:
+  #     cpu: 2
+  #     memory: 7.5G
+  #   requests:
+  #     cpu: 2
+  #     memory: 7.5G
   env:
     - name: EXTRA_CONDA_PACKAGES
       value: numba xarray -c conda-forge
