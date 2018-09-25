@@ -1,3 +1,7 @@
+
+
+
+
 We assume that you're running on Google Cloud - you should have an account set up and a project ready to go. You will need to enable the kubernetes API in Google Cloud to be able to create kubernetes clusters.
 
 ### Install tools
@@ -40,15 +44,17 @@ Updated property [core/project].
 Then we can spin up the k8s cluster with
 
 ```bash
-$ gcloud container clusters create test-dask \
+$ gcloud container clusters create dask \
 	--num-nodes=4 \
-	--machine-type=n1-standards-2
+	--machine-type=n1-highmem-2
 ```
 
 ```
 # snip warning messages
 Creating cluster test-dask...⠧
 ```
+
+You can get the available machine types with `gcloud compute machine-types list`. This will deploy the cluster into your default region as set in  your config.
 
 Check that things are running
 
