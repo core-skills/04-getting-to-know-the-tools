@@ -18,3 +18,6 @@ We're also going to be using some more advanced methods that `pandas` offers - y
 - Jake van der Plas has a very good book on data science with Python which has lots of examples using `pandas` - it's available as a series of Jupyter notebooks on GitHub here: https://github.com/jakevdp/PythonDataScienceHandbook. You can buy a hard copy from O'Reilly Books here: http://shop.oreilly.com/product/0636920034919.do.
 - The pandas documentation is good if you want more info about a particular function (although less useful for how to piece everything together). It's available here: https://pandas.pydata.org
 - If you get stuck then someone else has probably already had your problem and got it fixed on Stack Overflow - you can see questions tagged with `pandas` here: https://stackoverflow.com/questions/tagged/pandas
+
+
+bogus change for git!
