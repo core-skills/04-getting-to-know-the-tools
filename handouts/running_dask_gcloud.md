@@ -1,7 +1,3 @@
-
-
-
-
 We assume that you're running on Google Cloud - you should have an account set up and a project ready to go. You will need to enable the kubernetes API in Google Cloud to be able to create kubernetes clusters.
 
 ### Install tools
