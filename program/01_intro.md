@@ -87,7 +87,7 @@ Short recap of Python objects – data + code that operates on that data vs func
 
 ## Wrapping Up
 
-Pair up for the morning!
+Pair up for the morning! We'll swap a few times during the day.
 
 [Overview](./00_overview.md) |
 [Intro](./01_intro.md) |

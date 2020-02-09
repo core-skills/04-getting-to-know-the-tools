@@ -27,8 +27,8 @@ Have a look at data.gov.au, find a non-CSV file you want to load in,
 and find the documentation for how you might go about it (e.g.
 shapefiles, spreadsheets, `.tsv`?).
 
-| Checkpoint: Is everyone up to speed? How are people going? |
-| ---------------------------------------------------------- |
+| :triangular_flag_on_post: Is everyone up to speed? How are people going? |
+| ------------------------------------------------------------------------ |
 
 Synchronise code and swap over.
 
@@ -50,8 +50,8 @@ Synchronise code and swap over.
 | :question: How would you check for incorrect, or invalid values? |
 | ---------------------------------------------------------------- |
 
-| Checkpoint: Is everyone up to speed? How are people going? |
-| ---------------------------------------------------------- |
+| :triangular_flag_on_post: Is everyone up to speed? How are people going? |
+| ------------------------------------------------------------------------ |
 
 Synchronise code and swap over.
 
@@ -87,12 +87,12 @@ Use the tidy data checklist and check through your own datasets.
 | :question: How could you encode categorical data in your dataset? |
 | ----------------------------------------------------------------- |
 
-| Checkpoint: Is everyone up to speed? How are people going? |
-| ---------------------------------------------------------- |
+| :triangular_flag_on_post: Is everyone up to speed? How are people going? |
+| ------------------------------------------------------------------------ |
 
 Synchronise code and swap over.
 
-## Optional: Extract These Steps out to a Separate Function
+## *Optional*: Extract These Steps out to a Separate Function
 
 If you get to this point before the allocated time, or wish to
 spend a few productive minutes over the break, copy your
