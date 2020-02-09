@@ -1,11 +1,11 @@
 # Overview
 
 [Overview](./00_overview.md) |
-[Munging](./01_munging.md) |
-[Grouping & Reshaping](./02_groupingreshaping.md) |
-[Explaining Data](./03_explainingdata.md) |
-[How Might We...](./04_howmightwe.md)  |
-[Closeout](./05_closeout.md)
+[Munging](./02_munging.md) |
+[Grouping & Reshaping](./03_groupingreshaping.md) |
+[Explaining Data](./04_explainingdata.md) |
+[How Might We...](./05_howmightwe.md)  |
+[Closeout](./06_closeout.md)
 
 ## Aim
 
@@ -20,12 +20,13 @@
 1. Construct reasoning to explain links between data and statistical distributions including pattern recognition.
 1. Critique basic summary statistics after implementing an EDA.
 
-# Schedule
+## Schedule
 
 | Start | End   | Agenda                      |
 | -----:|:----- | --------------------------- |
 | 08:15 | 08:30 | Q&A, Issues & Announcements |
-| 08:30 | 10:00 | [**Munging Tabular Data**]  |
+| 08:30 | 09:00 | [**Introduction**]          |
+| 09:00 | 10:00 | [**Munging Tabular Data**]  |
 | 10:00 | 10:30 | *Morning Tea*               |
 | 10:30 | 12:00 | [**Grouping & Reshaping**]  |
 | 12:00 | 13:00 | *Lunch*                     |
@@ -34,12 +35,14 @@
 | 15:00 | 16:30 | [**How Might We...**]       |
 | 16:30 | 16:45 | [**Closeout**]              |
 
-[**Munging Tabular Data**]: ./01_munging.md
+[**Introduction**]: ./01_intro.md
 
-[**Grouping & Reshaping**]: ./02_groupingreshaping.md
+[**Munging Tabular Data**]: ./02_munging.md
 
-[**Explaining Data**]: ./03_explainingdata.md
+[**Grouping & Reshaping**]: ./03_groupingreshaping.md
 
-[**How Might We...**]: ./04_howmightwe.md
+[**Explaining Data**]: ./04_explainingdata.md
 
-[**Closeout**]: ./05_closeout.md
+[**How Might We...**]: ./05_howmightwe.md
+
+[**Closeout**]: ./06_closeout.md
