@@ -63,7 +63,9 @@ occasionally break) separate from 'stable' versions especially when there are ot
 people using it. For this we commonly use separate 'master' and 'develop'
 branches. In addition to this, if it suits your workflow and you have a few people
 working on the project you could add branches for new features or to work on
-bugfixes. Gitflow is a workflow commonly used to manage how these branches interact,
+bugfixes.
+
+Gitflow is a workflow commonly used to manage how these branches interact,
 (i.e. I have a bunch of branches, which one goes into where?)
 designed around generating 'releases' or incremental stable versions. Check out
 the
@@ -84,9 +86,11 @@ Beyond this, know who's working on which feature/bug/problem and make your chang
 (read: commits) specific and targeted to that.
 
 An exercise or two:
+
 1. Starting From an Existing Repository: Cloning & Forking
 1. Make some changes.
 1. Pull request.
+
 
 1. Starting from a New Repository
 1. Adding collaborators.
