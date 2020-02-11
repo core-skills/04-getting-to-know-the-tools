@@ -98,15 +98,15 @@ dive into some of the documentation. We've listed links to some of the most comm
 used packages within the scientific python ecosystem below, annotated by
 a quick description of the functionality of each package.
 
-| Package         | Description |
-| --------------- | ----------- |
-| [numpy]()       |             |
-| [matplotlib]()  |             |
-| [pandas]()      |             |
-| [sklearn]()     |             |
-| [scipy]()       |             |
-| [statsmodels]() |             |
-| [seaborn]()     |             |
+| Package                                                      | Description                                                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| [numpy](https://docs.scipy.org/doc/numpy)                    | Numeric Python. Working with numbers, lists of numbers, linear algebra & more.              |
+| [matplotlib](https://matplotlib.org/)                        | "2D plotting library which produces publication quality figures in a variety of formats."   |
+| [pandas](https://pandas.pydata.org/)                         | "A fast, powerful, flexible and easy to use (tabular) data analysis and manipulation tool"  |
+| [sklearn](https://scikit-learn.org/stable/)                  | "Machine Learning in Python- Simple and effective tools for predictive data analysis"       |
+| [scipy](https://docs.scipy.org/doc/scipy/reference/)         | Optimisation, interpolation, signal processing & stats.                                     |
+| [statsmodels](https://www.statsmodels.org/stable/index.html) | "for the estimation of statistical models, statistical tests, statistical data exploration" |
+| [seaborn](https://seaborn.pydata.org/)                       | "High-level interface for drawing attractive and informative statistical graphics."         |
 
 Check out the documentation sources, but also remember there are other useful
 sources of information, particularly when you run into bugs:
