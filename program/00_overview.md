@@ -24,8 +24,8 @@
 
 | Start | End   | Agenda                      |
 | -----:|:----- | --------------------------- |
-| 08:15 | 08:30 | Q&A, Issues & Announcements |
-| 08:30 | 09:00 | [**Introduction**]          |
+| 08:30 | 08:45 | Q&A, Issues & Announcements |
+| 08:45 | 09:00 | [**Introduction**]          |
 | 09:00 | 10:00 | [**Munging Tabular Data**]  |
 | 10:00 | 10:30 | *Morning Tea*               |
 | 10:30 | 12:00 | [**Grouping & Reshaping**]  |
