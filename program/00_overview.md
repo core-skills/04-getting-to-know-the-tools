@@ -10,7 +10,7 @@
 ## Aim
 
 1. Create and interpret statistics and visualisations after completing appropriate QA/QC.
-1. Implement an EDA and apply pattern recognition principles while avoiding pitfalls.
+1. Implement exploratory data analysis and apply pattern recognition principles while avoiding pitfalls.
 
 ## Learning Outcomes
 

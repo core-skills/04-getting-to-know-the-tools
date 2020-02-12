@@ -9,13 +9,20 @@
 # Day 4 Introduction
 
 The morning will be spent practising some collaborative development.
-We'll first spend some time going over Git, GitHub and GitKraken before doing a
-small series of exercises in pairs.
+We'll spend some time going over Git, GitHub and GitKraken before doing a small series of exercises in pairs.
 By the end of the morning, you should have had a bit of practise with the develop
 & synchronize workflow for shared programming, and be able to effectively code in
 pairs (pair programming model) and share the results.
 
 There should also be plenty of time to look at other things as needed.
+First we'll follow up on a few things which we identified as worth returning to from last week - the data science workflow,  and
+the packages which make up the scientific python ecosystem.
+
+## Data Science Workflow
+
+| :question: How do I put together a workflow for my data project? |
+| ---------------------------------------------------------------- |
+|                                                                  |
 
 ## The Scientific Python Ecosystem
 
@@ -40,18 +47,20 @@ sources of information, particularly when you run into bugs:
 * Blogs, examples, tutorials
 * Docstrings!
 
-## Before we Get Started: Recap
+## Python Recap
 
 We have time for a quick refresher if needed, e.g.:
 
 | :question: How do I find where my python code is running? |
-| ---------------------------------------------- |
+| --------------------------------------------------------- |
 
 | :question: How do I specify a path to my data directory? |
 | -------------------------------------------------------- |
 
 | :question: What's the difference between functions `func(df)` and methods `df.func()` |
 | ------------------------------------------------------------------------------------- |
+
+# Some New Concepts
 
 ## Code Kata
 
