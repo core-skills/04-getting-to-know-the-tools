@@ -153,6 +153,9 @@ Finally we'll go through **adding collaborators to a private repository**.
 
 Pair up for the morning! We'll swap a few times during the day.
 
+We'll come together to discuss at the end, so note down
+any ideas, perspectives or issues you encounter throughout the day.
+
 [Overview](./00_overview.md) |
 [Intro](./01_intro.md) |
 [Munging](./02_munging.md) |

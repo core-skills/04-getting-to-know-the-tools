@@ -62,15 +62,12 @@ Synchronise code and swap over.
 | 10 mins |
 | ------- |
 
-* Definition
-
 ### Checklist
 
 1. Each variable you measure should be in one column.
 1. Each different observation of that variable should be in a different row.
 1. There should be one table for each "kind" of variable.
 1. If you have multiple tables in a given dataset, they should include a column in the table that allows them to be linked<sup><a id="a1">[‡](#f1)</a></sup>.
-
 
 <b id="f1">‡</b>: If you can't link them, then perhaps they should be considered different datasets? [↩](#a1)
 
