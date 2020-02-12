@@ -8,13 +8,13 @@
 
 # Grouping and Reshaping Data
 
+For this section we'll be working with the notebook titled
+['am2-data-qaqc'](../notebooks/am2-data-qaqc.ipynb).
+
 ### Step 1: Grouping, Pivoting, Resampling and Aggregating
 
 | 30 min |
 | ------ |
-
-We'll be working with the notebook titled
-['am2-data-qaqc'](../notebooks/am2-data-qaqc.ipynb).
 
 `df.groupby`
 
@@ -26,7 +26,7 @@ We'll be working with the notebook titled
 
 Synchronise code and swap over.
 
-### Step 2: Statistical Distribution from Regrouped Data
+### Step 2: Statistical Distributions from Regrouped Data
 
 1. Use `df.groupby` to generate groups of data to summarise
 1. Investigate basic descriptive stats with  `df.describe` method
