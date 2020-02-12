@@ -141,8 +141,6 @@ Beyond this, know who's working on which feature/bug/problem and make your chang
 
 Start by cloning today's repository.
 
-We'll quickly go through setting up **GitFlow** using GitKraken.
-
 Next we can work with a
 [demo repo](https://github.com/core-skills/git-workflow-runthrough)
 to play with some of these tools:
@@ -161,7 +159,7 @@ to play with some of these tools:
 
 1. Wait for review.
 
-Finally we'll go through **adding collaborators to a private repository**.
+Finally we'll go through  setting up **GitFlow** using GitKraken and **adding collaborators to a private repository**.
 
 ## Wrapping Up
 
