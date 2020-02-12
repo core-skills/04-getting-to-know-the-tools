@@ -12,7 +12,5 @@ df = pd.concat([pd.read_csv(csv_filepath) for csv_filepath in csvs]).reset_index
 df.to_csv((Path("./") / output_filename).with_suffix('.csv'), index=False)
 )
 
-import pandas as pd
-
 # df = pd.read_csv('LondonAQ.csv')
 # pd.read_csv("https://storage.googleapis.com/coreskillsdata2020/AQ/LondonAQ.csv")

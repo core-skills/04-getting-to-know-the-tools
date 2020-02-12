@@ -85,15 +85,20 @@ files at any specific time - or working at different times on the same files.
 Beyond this, know who's working on which feature/bug/problem and make your changes
 (read: commits) specific and targeted to that.
 
-An exercise or two:
+### An Exercise or Three
 
-1. Starting From an Existing Repository: Cloning & Forking
-1. Make some changes.
-1. Pull request.
+1. Clone today's repository.
 
+Next we can work with a [demo repo](https://github.com/core-skills/git-workflow-runthrough) to play with some of these tools:
+1. Fork the Existing Repository
+1. Make some changes on your fork within the `develop` branch (e.g. add an empty file).
+1. Stage and commit the changes.
+1. Pull request
+  * You might see a green 'Compare and pull request button'
+  * Make sure your branches line up.
+1. Wait for review.
 
-1. Starting from a New Repository
-1. Adding collaborators.
+Finally we'll go through **adding collaborators to a private repository**.
 
 ## The Scientific Python Ecosystem
 
