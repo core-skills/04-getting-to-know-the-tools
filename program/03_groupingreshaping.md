@@ -13,6 +13,9 @@
 | 30 min |
 | ------ |
 
+We'll be working with the notebook titled
+['am2-data-qaqc'](../notebooks/am2-data-qaqc.ipynb).
+
 `df.groupby`
 
 `pd.pivot_table`

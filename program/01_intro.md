@@ -127,8 +127,7 @@ sources of information, particularly when you run into bugs:
 
 | :question: How do I specify a path to my data directory? |
 | -------------------------------------------------------- |
-|                                                          |
-|                                                          |
+
 ###  Functions, Objects and Methods
 
 Short recap of Python objects – data + code that operates on that data vs functions (code that takes some input)

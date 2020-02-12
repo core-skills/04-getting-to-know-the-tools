@@ -10,14 +10,16 @@
 
 The first session this morning will overlap somewhat with the last sessions of last
 week. We'll be working on importing some data, cleaning it up and the first
-parts of data exploration. We'll be working with the notebook titled ['am1-munging-tabular-data'](../notebooks/am1-munging-tabular-data.ipynb).
+parts of data exploration. We'll be working with the notebook titled
+['am1-munging-tabular-data'](../notebooks/am1-munging-tabular-data.ipynb).
 
 ## Step 1: Read my Data
 
 | 30 mins (together) |
 | ------------------ |
 
-This first exercise will involve reading in some data from a `.csv`.
+This first exercise will involve reading in some data from a `.csv` (or whichever
+data file you have on hand).
 
 | :question: How do you read a `.csv` into a `pandas.DataFrame`? |
 | -------------------------------------------------------------- |
