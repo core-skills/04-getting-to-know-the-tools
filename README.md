@@ -1,4 +1,4 @@
-# Core skills program - week 2 - Getting to know the tools
+# CORE Skills Data Science Springboard - Day 4 - Getting to Know the Tools
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/02-getting-to-know-the-tools.git/master)
 
