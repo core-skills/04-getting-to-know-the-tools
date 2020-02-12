@@ -87,7 +87,7 @@ Beyond this, know who's working on which feature/bug/problem and make your chang
 
 ### An Exercise or Three
 
-1. Clone today's repository.
+Start by cloning today's repository.
 
 Next we can work with a [demo repo](https://github.com/core-skills/git-workflow-runthrough) to play with some of these tools:
 1. Fork the Existing Repository
@@ -97,6 +97,8 @@ Next we can work with a [demo repo](https://github.com/core-skills/git-workflow-
   * You might see a green 'Compare and pull request button'
   * Make sure your branches line up.
 1. Wait for review.
+
+We'll quickly go through setting up git flow using GitKraken.
 
 Finally we'll go through **adding collaborators to a private repository**.
 
