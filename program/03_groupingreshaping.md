@@ -16,10 +16,7 @@ For this section we'll be working with the notebook titled
 | 30 min |
 | ------ |
 
-`df.groupby`
-
-`pd.pivot_table`
-
+Here we'll introduce `df.groupby()` and `pd.pivot_table()` / `df.pivot()`.
 
 | :triangular_flag_on_post: Is everyone up to speed? How are people going? |
 | ------------------------------------------------------------------------ |
