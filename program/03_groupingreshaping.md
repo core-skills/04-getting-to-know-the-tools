@@ -28,7 +28,9 @@ Synchronise code and swap over.
 
 ### Step 2: Statistical Distribution from Regrouped Data
 
-Use `df.groupby` to generate groups of data to summarise and both `df.describe` method for basic descriptive stats and then scipy.stats to fit a distribution to the group.
+1. Use `df.groupby` to generate groups of data to summarise
+1. Investigate basic descriptive stats with  `df.describe` method
+1. Use `scipy.stats` to fit a distribution to the group
 
 | :triangular_flag_on_post: Is everyone up to speed? How are people going? |
 | ------------------------------------------------------------------------ |
