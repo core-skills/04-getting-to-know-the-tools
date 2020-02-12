@@ -14,7 +14,12 @@ By the end of the morning, you should have had a bit of practise with the develo
 & synchronize workflow for shared programming, and be able to effectively code in
 pairs (pair programming model) and share the results.
 
-There should also be plenty of time to look at other things as needed.
+## Getting to Know the Tools
+
+The following weeks will dive into building models, but today is about getting comfortable with the tools we'll continue to
+use throughout the rest of the course.
+There are a few exercises to go through, but there should also be plenty of time to look at other things as needed.
+
 First we'll follow up on a few things which we identified as worth returning to from last week - the data science workflow,  and
 the packages which make up the scientific python ecosystem.
 
