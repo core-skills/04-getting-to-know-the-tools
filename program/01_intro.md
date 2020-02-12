@@ -140,9 +140,11 @@ to play with some of these tools:
 1. Stage and commit the changes in **GitKraken**.
 1. Push your changes on `develop` to **GitHub**.
 1. Pull request from your **GitHub** fork's `develop` branch.
-  * You might see a green 'Compare and pull request button'
-  * Make sure your branches line up (e.g. `.../core-skills/<repo>/develop` <- `.../myname/<repo>/develop`).
-  * *Optional: Reference the issue you made before.*
+
+    * You might see a green 'Compare and pull request button'
+    * Make sure your branches line up (e.g. `.../core-skills/<repo>/develop` <- `.../myname/<repo>/develop`).
+    * *Optional: Reference the issue you made before.*
+
 1. Wait for review.
 
 Finally we'll go through **adding collaborators to a private repository**.
