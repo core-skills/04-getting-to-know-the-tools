@@ -1,5 +1,4 @@
 [Overview](./00_overview.md) |
-[Intro](./01_intro.md) |
 [Munging](./02_munging.md) |
 [Grouping & Reshaping](./03_groupingreshaping.md) |
 [Explaining Data](./04_explainingdata.md) |
