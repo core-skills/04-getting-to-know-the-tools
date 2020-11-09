@@ -22,18 +22,18 @@
 
 ## Schedule
 
-| Start | End   | Agenda                      |
-| -----:|:----- | --------------------------- |
-| 08:30 | 08:45 | Q&A, Issues & Announcements |
-| 08:45 | 09:00 | [**Introduction**]          |
-| 09:00 | 10:00 | [**Munging Tabular Data**]  |
-| 10:00 | 10:30 | *Morning Tea*               |
-| 10:30 | 12:00 | [**Grouping & Reshaping**]  |
-| 12:00 | 13:00 | *Lunch*                     |
-| 13:00 | 14:30 | [**Explaining Data**]       |
-| 14:30 | 15:00 | *Afternoon Tea*             |
-| 15:00 | 16:30 | [**How Might We...**]       |
-| 16:30 | 16:45 | [**Closeout**]              |
+|          AWST | AEST          | Agenda                      |
+| -------------:|:------------- | --------------------------- |
+| 07:30 - 07:45 | 09:30 - 09:45 | Q&A, Issues & Announcements |
+| 07:45 - 09:15 | 09:45 - 11:15 | [**Munging Tabular Data**]  |
+| 09:15 - 09:30 | 11:15 - 11:30 | *Morning Tea*               |
+| 09:30 - 11:00 | 11:30 - 13:00 | [**Grouping & Reshaping**]  |
+| 11:00 - 11:45 | 13:00 - 13:45 | *Lunch*                     |
+| 11:45 - 13:15 | 13:45 - 15:15 | [**Explaining Data**]       |
+| 13:15 - 13:30 | 15:15 - 15:30 | *Afternoon Tea*             |
+| 13:30 - 14:45 | 15:30 - 16:45 | [**How Might We...**]       |
+| 14:45 - 15:00 | 16:45 - 17:00 | [**Closeout**]              |
+
 
 [**Introduction**]: ./01_intro.md
 

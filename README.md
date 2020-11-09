@@ -1,6 +1,6 @@
 # CORE Skills Data Science Springboard - Day 4 - Getting to Know the Tools
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/02-getting-to-know-the-tools.git/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/04-getting-to-know-the-tools.git/master?urlpath=/lab/)
 
 The aim of today's session will be to introduce methods to make sure that you're starting with quality data. As all data science methods are garbage in/garbage out you need to make sure you can explore new datasets quickly to assess whether your approach is viable. We will work towards building a basic exploratory data analysis framework with a checklist of things you should be looking out for.
 
@@ -8,7 +8,7 @@ You should aim to get familiar with `pandas`  interface for manipulating (mungin
 
 ## Pre-session Reading & Resources
 
-This week we're going to be looking at exploratory data with new datasets. You'll find that this process takes around 60-90% of any data science project so it's worth (a) getting good at it and (b) looking at ways to make this process easier. One approach is to put data in a *tidy form* as soon as possible. 
+This week we're going to be looking at exploratory data with new datasets. You'll find that this process takes around 60-90% of any data science project so it's worth (a) getting good at it and (b) looking at ways to make this process easier. One approach is to put data in a *tidy form* as soon as possible.
 
 - Hadley Wickham (of R fame) wrote the original paper on this and you can read it here: https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf
 - There's a nice example of following this approach for a dataset in Python here: http://www.jeannicholashould.com/tidy-data-in-python.html
