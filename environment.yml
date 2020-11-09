@@ -1,29 +1,15 @@
-name: week02
+name: core04
 
 channels:
-  # Conda forge - gives us lots of community-built Python packages, see https://conda-forge.org/ for details
   - conda-forge
-  # R packages - uncoment this one if you want to use R for your work. R packages in conda are generally called 'r-$packagename'. Note that this will massively slow down the dependency resolver so only do it if you actually need it.
-  # - r
 
 dependencies:
   - numpy
-  - pandas
-  - xlrd
-  - feather-format
-  - matplotlib
+  - pandas>=1.1
+  - matplotlib>=3.1
   - seaborn>=0.9
-  - patsy
-  - statsmodels
-  - scikit-learn
-  - ipykernel
+  - scikit-learn>=0.21
   - jupyter
-  - rasterio
-  - cartopy
-  - geopandas
-  - geoplot
-  - dask
-  - distributed
-  - pip:
-    - s3fs
-    - gcsfs
+  - jupyterlab
+  - ipykernel
+  - statsmodels
