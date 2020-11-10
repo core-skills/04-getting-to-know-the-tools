@@ -31,7 +31,7 @@ def get_onedrive_directlink(onedrive_link):
     return direct_url
 
 
-def _fetch_UCI_dataset(url, usecache=True):
+def _fetch_UCI_dataset(url, usecache=False, compresison='zip'):
     """
     Fetch a specific dataset from the University of California Irvine Machine Learning Repository.
     
@@ -50,7 +50,7 @@ def _fetch_UCI_dataset(url, usecache=True):
     df = None
     if usecache:
         if cacheloc.exists():
-            df = pd.read_pickle(cacheloc, compression='gzip')
+            df = pd.read_pickle(cacheloc, compression=compresison)
             
     if df is None:
         resp = urlopen(url)
@@ -58,7 +58,7 @@ def _fetch_UCI_dataset(url, usecache=True):
         df = pd.concat([pd.read_csv(zipfile.open(file)) for file in zipfile.namelist() if file.endswith('.csv')])
     
     if usecache:
-        df.to_pickle(cacheloc, compression='gzip')
+        df.to_pickle(cacheloc, compression=compresison)
     return df
 
 
